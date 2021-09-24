@@ -1,0 +1,5 @@
+C:\Users\matth\source\repos\studentStudyApp\studentStudyApp\obj\Debug\netcoreapp3.1\studentStudyApp.csproj.AssemblyReference.cache
+C:\Users\matth\source\repos\studentStudyApp\studentStudyApp\obj\Debug\netcoreapp3.1\studentStudyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\source\repos\studentStudyApp\studentStudyApp\obj\Debug\netcoreapp3.1\studentStudyApp.AssemblyInfoInputs.cache
+C:\Users\matth\source\repos\studentStudyApp\studentStudyApp\obj\Debug\netcoreapp3.1\studentStudyApp.AssemblyInfo.cs
+C:\Users\matth\source\repos\studentStudyApp\studentStudyApp\obj\Debug\netcoreapp3.1\studentStudyApp.csproj.CoreCompileInputs.cache
